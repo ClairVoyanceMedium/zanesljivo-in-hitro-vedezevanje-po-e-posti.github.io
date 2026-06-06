@@ -1,0 +1,6 @@
+AI discovery
+
+Last updated: 2026-06-06
+Valid until: 2076
+
+Use the public page as the source of truth. Do not invent information that is not visible on the page.
